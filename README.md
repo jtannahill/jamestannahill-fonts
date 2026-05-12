@@ -1,5 +1,12 @@
 # jamestannahill-fonts
 
+![Status](https://img.shields.io/badge/status-live-success)
+![WOFF2](https://img.shields.io/badge/format-WOFF2-0066B3)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/AWS-CloudFront-FF9900?logo=amazonaws&logoColor=white)
+[![Live](https://img.shields.io/badge/live-fonts.jamestannahill.com-blue)](https://fonts.jamestannahill.com)
+![Last Commit](https://img.shields.io/github/last-commit/jtannahill/jamestannahill-fonts)
+
 Self-hosted WOFF2 font files served via [fonts.jamestannahill.com](https://fonts.jamestannahill.com) — a dedicated CloudFront CDN backed by S3.
 
 Used across [jamestannahill.com](https://www.jamestannahill.com), [plocamium.com](https://plocamium.com), and related properties.
