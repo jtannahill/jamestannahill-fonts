@@ -7,7 +7,7 @@
 [![Live](https://img.shields.io/badge/live-fonts.jamestannahill.com-blue)](https://fonts.jamestannahill.com)
 ![Last Commit](https://img.shields.io/github/last-commit/jtannahill/jamestannahill-fonts)
 
-Self-hosted WOFF2 font files served via [fonts.jamestannahill.com](https://fonts.jamestannahill.com) — a dedicated CloudFront CDN backed by S3.
+Self-hosted WOFF2 font files served via [fonts.jamestannahill.com](https://fonts.jamestannahill.com): a dedicated CloudFront CDN backed by S3.
 
 Used across [jamestannahill.com](https://www.jamestannahill.com), [plocamium.com](https://plocamium.com), and related properties.
 
@@ -111,4 +111,4 @@ font-weight: 700; /* Bold */
 - **CDN:** Amazon CloudFront
 - **Origin:** S3 with public read access
 - **CORS:** Enabled for cross-origin font loading
-- **Cache:** Long TTL (1 year) — files are content-addressed
+- **Cache:** Long TTL (1 year): files are content-addressed
